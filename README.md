@@ -1,4 +1,4 @@
-Tic Tac Toe game; currently has 2-player mode and human vs computer mode; inspired by ctlewitt in [his gist](https://gist.github.com/ctlewitt/34986ab411b49c5fdce7)
+Tic Tac Toe game; currently supporting all 6 uniform search algos; inspired by Charley Lewittes in [his gist](https://gist.github.com/ctlewitt/34986ab411b49c5fdce7)
 <br/>
 
 ### UPDATE
