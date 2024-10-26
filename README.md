@@ -1,4 +1,4 @@
-Tic Tac Toe game; currently has 2-player mode and human vs computer mode; my goal is to add a more easier-to-beat computer player
+Tic Tac Toe game; currently has 2-player mode and human vs computer mode; inspired by ctlewitt in [his gist](https://gist.github.com/ctlewitt/34986ab411b49c5fdce7)
 <br/>
 
 ### UPDATE
